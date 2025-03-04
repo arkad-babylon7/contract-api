@@ -1,1 +1,0 @@
-# LDB-BE-fastapi
